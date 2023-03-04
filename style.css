@@ -1,0 +1,115 @@
+.firstimageofheader{
+    width: 110px;
+    border: 2px solid  rgb(30, 102, 173)!important;
+}
+.dropdown-toggle{
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 20px;
+    color: white !important;
+}
+.nev{
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 25px;
+}
+.navbar{
+    background-color: rgb(30, 102, 173) !important;
+    width: 100%;
+    position: fixed;
+}
+.nav-link{
+    color: white !important;
+}
+.lg-button{
+    width: 210px !important;
+    padding: 2px !important;
+    font-size: 14px !important;
+    font-weight: bold;
+    background-color: transparent !important;
+    border: 2px solid white;
+    border-radius: 20px;
+    margin-left: 400px;
+}
+.lg-button:hover{
+    width: 210px !important;
+    padding: 2px !important;
+    font-size: 14px !important;
+    font-weight: bold;
+    background-color: white !important;
+    border: 2px solid white;
+    color:  rgb(30, 102, 173) !important;
+    border-radius: 20px;
+    margin-left: 400px;
+}
+*{
+    background-color:  rgb(30, 102, 173);
+    /* height:0px; */
+}
+.bodyimgone{
+    position: relative;
+    width: 100%;
+    height: 750px;
+    /* position: absolute;
+    top: 40px; */
+}
+.bodyimgtwo{
+    width: 100%;
+    height: 750px;
+
+    /* position: absolute;
+    top: 40px; */
+}
+.bodyimgthree{
+    width: 70%;
+    height: 550px;
+    float: right;
+
+    /* position: absolute;
+    top: 40px; */
+}
+.bodyimgfour{
+    width: 24%;
+    height: 220px;
+    float: left;
+    margin-top: 60px;
+    margin-left: 37px;
+    border: 2px solid white;
+    padding-bottom: 40px;
+    border-radius: 10px;
+    /* position: absolute;
+    top: 40px; */
+}
+.cardtext{
+    position: relative;
+    top: 247px;
+    left: -250px;
+    color: white ;
+    font-size: 14px !important;
+    font-weight: bold;
+}
+.bodyimgfive{
+    width: 24%;
+    height: 220px;
+    float: left;
+    margin-top: 60px;
+    margin-left: 37px;
+    border: 2px solid white;
+    padding-bottom: 40px;
+    border-radius: 10px;
+    /* position: absolute;
+    top: 40px; */
+}
+.cardtexttwo{
+    position: relative;
+    top: 527px;
+    left: -450px;
+    color: white ;
+    font-size: 14px !important;
+    font-weight: bold;
+}
+.bodyimgsix{
+    width: 100%;
+    height: 750px;
+
+}
